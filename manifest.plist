@@ -11,19 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.224.68.128:8888/ios/download/app/vms.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>http://10.224.68.128:8888/ios/download/img/vms57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>http://10.224.68.128:8888/ios/download/img/vms512.png</string>
+					<string>http://10.230.33.22/NBAM/vms/vms.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.deppon.vmsapi</string>
 				<key>bundle-version</key>
-				<string>0.0.0.4</string>
+				<string>2.0.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
